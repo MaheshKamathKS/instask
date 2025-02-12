@@ -62,7 +62,7 @@ To run the code, you need the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/MaheshKamathKS/instask.git
    cd hybridcipher
    ```
 2. Install the required libraries using pip:
